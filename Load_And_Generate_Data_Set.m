@@ -3,7 +3,7 @@
 % This Script loads the GNSS and POZYX sample data, solves the NR Position
 % Alogrithm on the GNSS data (w/ Ionosphere-Free Psuedoranges
 % implemented)and then combines the GNSS and POZYX data to simulate a
-% Vechiles entering a building.
+% vechile entering a building.
 % It saves the data into a .mat at the end. This .dat will be loaded into a
 % different script that will implement an Extended Kalman Filter to
 % estimate the position of the quad as it enters the GPS deprived indoor
